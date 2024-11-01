@@ -1,2 +1,2 @@
 # markdown-imgs
-personal img repository
+personal pic bed repository
